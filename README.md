@@ -46,13 +46,12 @@ The sheet I started with only had 2 numbers. To make a proper dashboard, I manua
 - Road_Traffic_Report.pdf: The full analytical report.
 
 ---
-
 ## 🔗 Data Sources
 
 - [HST 2024 Report](https://www.vision2030.gov.sa/media/h0yb5d03/health-sector-transformation-report-2024.pdf)
 - [UN Stats SDG Portal](https://unstats.un.org/sdgs/dataportal/database)
-- [WHO GHO Database](https://data.who.int/indicators/i/B9D9E6A/D6176E2)
-- [Scientific Reports / Nature Study](https://www.nature.com/articles/s41598-025-15217-2)
+- [WHO Global Status Report](https://www.who.int/publications/i/item/9789240087712)
+- [Scientific Reports / Nature Study](https://www.nature.com/articles/s41598-025-15217-z)
 
 ---
 
