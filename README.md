@@ -1,7 +1,7 @@
 # 🚗 Road Traffic Deaths Dashboard — Saudi Arabia
 ### SDG Indicator 3.6.1 | Vision 2030 Progress Assessment
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](dashboard-screenshot.png.png)
 
 ---
 
